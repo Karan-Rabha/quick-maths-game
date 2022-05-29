@@ -1,0 +1,55 @@
+html {
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9Fd);
+    min-height: 1000px;
+    font-family: Georgia;
+}
+
+h1 {
+    color: #fff;
+    padding: 10px;
+}
+
+.box {
+    max-width: 500px;
+    height: 200px;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px;
+}
+
+#heading {
+    background-color: #A683E3;
+    text-align: center;
+}
+
+.score {
+    color: #fff;
+}
+
+button {
+    margin: 28px 25px 0px 22px;
+    min-height: 40px;
+    width: 50px;
+    border-radius: 30%;
+    border-color: transparent;
+    background-color: #ebf5f7;
+    color: black;
+    font-size: 15px;
+    border-width: 0;
+}
+
+footer {
+    color: white;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.correct {
+    background-color: #8ad5a1;
+}
+
+.wrong {
+    background-color: #e77171;
+}
